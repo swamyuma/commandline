@@ -1,4 +1,4 @@
-# Warn via email if user is over 50% of quota
+# Warn via email if user is over 90% of quota
 # I got most of this code from somewhere long time back and I don't have that information! This is for my reference.
 # This script can be included in a crobjob to run everyday
 
